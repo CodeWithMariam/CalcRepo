@@ -1,5 +1,5 @@
 # Calculator App
-Overview
+Overview:
 The Calculator App is a simple, yet powerful web-based application designed to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. It is built using HTML, CSS, and JavaScript, providing an intuitive and user-friendly interface. This app serves as a great tool for daily calculations and also as a project to demonstrate basic web development skills.
 
 # Features 
@@ -12,26 +12,24 @@ Keyboard Support: Allows users to perform calculations using their keyboard.
 # Installation 
 To run the Calculator App locally, follow these steps:
 
-# Clone the Repository: 
+1. Clone the Repository: 
+git clone https://github.com/CodeWithMariam/CalculatorApp.git
 
-git clone https://github.com/YourUsername/CalculatorApp.git
+2. Navigate to the Project Directory: 
 
-# Navigate to the Project Directory: 
-
-# Open the index.html file in your browser:
-
-You can simply double-click on the index.html file, or you can open it using a local server.
+3.   Open the index.html file in your browser:
+    You can simply double-click on the index.html file, or you can open it using a local server.
 
 # Usage
 
-# Using the Interface: 
+1. Using the Interface: 
 
 Click on the number buttons (0-9) to input numbers.
 Use the operator buttons (+, -, ×, ÷) to perform calculations.
 Click the = button to get the result.
 Use the C button to clear the current input.
 
-# Using the Keyboard:
+2. Using the Keyboard:
 
 You can also use the keyboard to input numbers and operators.
 Press Enter to get the result.
@@ -51,18 +49,18 @@ CalculatorApp/
 
 If you want to contribute to the development of this app, follow these steps:
 
-# Fork the Repository:
+1. Fork the Repository:
 Click on the Fork button at the top right of this repository page.
-# Clone Your Fork:
+2. Clone Your Fork:
 git clone https://github.com/CodeWithMariam/CalculatorApp.git
-# Create a New Branch:
+3. Create a New Branch:
 git checkout -b feature/YourFeature
-# Make Your Changes and Commit
+4. Make Your Changes and Commit
 git add .
 git commit -m "Add your feature"
-# Push Your Changes:
+5. Push Your Changes:
 git push origin feature/YourFeature
-# Create a Pull Request:
+6. Create a Pull Request:
 Go to the original repository on GitHub and create a pull request from your fork.
 
 # Contact
