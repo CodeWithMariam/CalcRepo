@@ -47,7 +47,7 @@ CalculatorApp/
 ├── README.md          # This README file
 └── screenshot.png     # Screenshot of the app
 
-# File Structure
+# Development:
 
 If you want to contribute to the development of this app, follow these steps:
 
