@@ -55,6 +55,20 @@ form input.operator{
 @media (max-width: 340px) {
     .calculator{
         padding: 0px;
-    }
-    
+    }  
+}
+@media (max-width: 350px) {
+    .calculator{
+        padding: 0px;
+    } 
+}
+@media (max-width: 360px) {
+    .calculator{
+        padding: 0px;
+    } 
+}
+@media (max-width: 375px) {
+    .calculator{
+        padding: 0px;
+    } 
 }
