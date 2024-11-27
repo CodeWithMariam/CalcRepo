@@ -52,3 +52,6 @@ form input.equal{
 form input.operator{
     color: #33ffd8;
 }
+@media (max-width: 340px) {
+    padding: 0px;
+}
