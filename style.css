@@ -53,5 +53,8 @@ form input.operator{
     color: #33ffd8;
 }
 @media (max-width: 340px) {
-    padding: 0px;
+    .calculator{
+        padding: 0px;
+    }
+    
 }
